@@ -24,3 +24,6 @@ Feel free to customize anything you don't like :)
     <td>mellow variant</td>
   </tr>
 </table>
+
+### Notes:
+The bright theme is great for daytime because light colors cause less glare, but it lacks contrast when Night Shift or Flux are active; that's when I switch to the mellow theme.
